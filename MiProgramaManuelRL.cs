@@ -2,3 +2,9 @@ While (true)
 {
   break
 }
+// CONSTANTES
+// VARIABLES – RECURSOS
+// INICIALIZACIÓN
+// ENTRADA
+// PROCESO
+// SALIDA
